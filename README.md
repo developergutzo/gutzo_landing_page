@@ -1,7 +1,7 @@
 
-  # Premium Minimal Landing Page
+  # Gutzo - Healthy feels good
 
-  This is a code bundle for Premium Minimal Landing Page. The original project is available at https://www.figma.com/design/CWZsq2B214WR8aoripABb7/Premium-Minimal-Landing-Page.
+  This is a code bundle for Gutzo - Healthy feels good. The original project is available at https://www.figma.com/design/CWZsq2B214WR8aoripABb7/Gutzo - Healthy feels good.
 
   ## Running the code
 
